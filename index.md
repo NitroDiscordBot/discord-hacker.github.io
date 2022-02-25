@@ -1,5 +1,4 @@
 # Discord Hacker
-Forked hrx404
 # Discord Hacks
 
 
